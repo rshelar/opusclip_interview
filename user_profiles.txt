@@ -1,0 +1,19 @@
+Name: Blake
+Current Location: San Jose, California
+Budget: 300 dollars
+Prefer: Country side with great sunshine
+
+Name: Daniel
+Current Location: Palo Alto, California
+Prefer: Self Driving Travel
+Available Time: Dec 2025
+
+Name: David
+Current Location: New York, NY
+Prefer: Most Comfortable, unlimited cost
+
+Name: Luca
+Current Location: San Jose, California
+Budget: 500 dollars
+Prefer: City walk
+Available Time: Oct and Nov 2025
